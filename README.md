@@ -6,11 +6,11 @@
 
 > **Final release following Rec Room's shutdown announcement** - Complete source code with updated offsets
 
-## 📜 Overview
+##  Overview
 
 This repository contains the complete source code for the Rec Room cheat tool, released as the game announces its shutdown. The cheat includes fully updated offsets to ensure functionality in the final versions of Rec Room.
 
-## 🛠️ Tools & Methodology
+##  Tools
 
 ### Offset Discovery Process
 To maintain this cheat across Rec Room updates, I developed two companion tools:
